@@ -1,5 +1,4 @@
 #!/bin/sh
-cd /tmp
 mkdir bash-fix
 cd bash-fix
 curl https://opensource.apple.com/tarballs/bash/bash-92.tar.gz | tar zxf -
