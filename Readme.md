@@ -8,6 +8,7 @@ git clone git@github.com:mdix/OSX-bash-fix.git
 cd OSX-bash-fix
 chmod +x *.sh
 ./build.sh
+# If build.sh went well, your patched bash has been compiled - ONLY THEN run install.sh
 ./install.sh
 ```
 
